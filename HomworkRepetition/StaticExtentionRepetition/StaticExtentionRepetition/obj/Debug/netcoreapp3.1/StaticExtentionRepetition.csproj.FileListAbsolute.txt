@@ -1,0 +1,14 @@
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\bin\Debug\netcoreapp3.1\StaticExtentionRepetition.exe
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\bin\Debug\netcoreapp3.1\StaticExtentionRepetition.deps.json
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\bin\Debug\netcoreapp3.1\StaticExtentionRepetition.runtimeconfig.json
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\bin\Debug\netcoreapp3.1\StaticExtentionRepetition.runtimeconfig.dev.json
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\bin\Debug\netcoreapp3.1\StaticExtentionRepetition.dll
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\bin\Debug\netcoreapp3.1\StaticExtentionRepetition.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.AssemblyInfoInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.AssemblyInfo.cs
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.dll
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Static_Extentions\HomworkRepetition\StaticExtentionRepetition\StaticExtentionRepetition\obj\Debug\netcoreapp3.1\StaticExtentionRepetition.genruntimeconfig.cache
